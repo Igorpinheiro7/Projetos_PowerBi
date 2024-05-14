@@ -1,2 +1,2 @@
 # Projetos_PowerBi
-Nesse repositório postarei meus Dashboards realizado.
+Nesse repositório vai está os Dashboards que realizei.
